@@ -11,8 +11,6 @@ env:
   SONAR_TOKEN: ${{ secrets.SONAR_TKN }}
 
 
-Test 
-
 jobs:
   build:
     runs-on: ubuntu-latest
