@@ -10,6 +10,9 @@ env:
   KUBECONFIG: ${{ secrets.KUBECONFIG }}
   SONAR_TOKEN: ${{ secrets.SONAR_TKN }}
 
+
+Test 
+
 jobs:
   build:
     runs-on: ubuntu-latest
