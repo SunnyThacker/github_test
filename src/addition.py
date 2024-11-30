@@ -1,5 +1,5 @@
 # app.py
-# This is a test commit for sync for dev branch
+# This is a test commit for sync for dev
 def add(a, b):
     return a + b
     
